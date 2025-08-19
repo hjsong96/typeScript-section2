@@ -39,9 +39,6 @@ let countryCodes: CountryCodes = {
 
 type CountryNumberCodes = {
     [key: string]: number;
-    Korea: string;
 };
 
-let countryNumberAndStringCodes: CountryNumberCodes = {
-    Korea: 'ko',
-};
+let countryNumberAndStringCodes: CountryNumberCodes = {};
